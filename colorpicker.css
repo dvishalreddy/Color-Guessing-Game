@@ -1,0 +1,33 @@
+.square{
+    width: 30%;
+    background-color: black;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+#sq_container{
+    width: 600px;
+    margin:0 auto;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#navbar{
+    
+    height: 30px;
+}
+#title{
+    margin: 0 auto;
+}
+#header #navbar{
+background-color: white;
+}
